@@ -2,4 +2,4 @@
 
 Hola soy Javier Henao
 
-Estoy repasando Git
+Repasando Git y GitHub
