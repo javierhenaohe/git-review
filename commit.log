@@ -1,0 +1,97 @@
+commit 52d9e4dd1fe6a4124b6e8dd0ae7963f053d54d1f
+Author: Javier Henao <javier.henao@outlook.com>
+Date:   Sun Feb 18 10:40:38 2024 -0500
+
+    Eliminando Error
+
+commit f8b900e43a9a776e54507c85928ba1d2dde730e2
+Author: Javier Henao <javier.henao@outlook.com>
+Date:   Sun Feb 18 10:34:30 2024 -0500
+
+    Agregando 2 parrafos
+
+commit 96496f4527a1e4d1a67d4b67e02dec22946f3d6a
+Author: Javier Henao <javier.henao@outlook.com>
+Date:   Sun Feb 18 10:31:15 2024 -0500
+
+    Definiendo estaciones del año con fecha de inicio
+
+commit 4c665b69a8a8ef083313416d5601c0924e29fe78
+Author: Javier Henao <javier.henao@outlook.com>
+Date:   Sun Feb 18 10:09:06 2024 -0500
+
+    Agregando estaciones del año
+
+commit 70f7f5be4bb8b6854d16879fbf411998f3e135e6
+Merge: c379156 ca34de2
+Author: Javier Henao <javier.henao@outlook.com>
+Date:   Sun Feb 18 09:46:10 2024 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit ca34de232adbf4bdbce9c85ca2fff803d43f709a
+Author: Javier Henao <javier.henao@outlook.com>
+Date:   Sun Feb 18 09:38:57 2024 -0500
+
+    Agregando index.js al index.html
+
+commit c379156cfbe8c042c1c47ff2948092cda3f889c0
+Author: Javier Henao <javier.henao@outlook.com>
+Date:   Sun Feb 18 09:34:50 2024 -0500
+
+    Agregando style.css al index.html
+
+commit c35736ec345c8fc12788241f8ee2528495e623ad
+Merge: 3ed31b8 84c507f
+Author: Javier Henao <javier.henao@outlook.com>
+Date:   Sat Feb 17 11:14:19 2024 -0500
+
+    Merge branch 'js'
+
+commit 84c507f7d7acc871a24b5c888b963bbe7e05d205
+Author: Javier Henao <javier.henao@outlook.com>
+Date:   Sat Feb 17 11:09:29 2024 -0500
+
+    Creando index.js
+
+commit 3ed31b8ea71d18d17ce15dab76079f815d6e8e96
+Author: Javier Henao <javier.henao@outlook.com>
+Date:   Sat Feb 17 11:03:55 2024 -0500
+
+    Creando style.css
+
+commit d2795d9d5916c873bb83c4a6edf1360efffe1e4a
+Author: Javier Henao <javier.henao@outlook.com>
+Date:   Sat Feb 17 10:59:51 2024 -0500
+
+    Creando index.html
+
+commit 58df5594164c517cf0b38a6cea993b3ecbb10e87
+Author: Javier Henao <javier.henao@outlook.com>
+Date:   Sat Feb 17 08:57:17 2024 -0500
+
+    Ignorando archivos .exe
+
+commit aab4ffec3be0a8d21324a73d131907014533b7a3
+Author: Javier Henao Hernandez <88687486+javierhenaohe@users.noreply.github.com>
+Date:   Sat Feb 17 07:48:45 2024 -0500
+
+    Creando licencia del repositorio
+
+commit 5070a29779e76a385abfdf21da1f0339a308d486
+Author: Javier Henao <javier.henao@outlook.com>
+Date:   Sat Feb 17 07:15:25 2024 -0500
+
+    Agregando mas contenido al README
+
+commit 2a70869ae5a76281b405f7fd453a678b3f09945d
+Author: Javier Henao <javier.henao@outlook.com>
+Date:   Sat Feb 17 06:54:11 2024 -0500
+
+    Agregando contenido inicial al README
+
+commit 8045aa94469d3a5ecc173e2564990c390626d042
+Author: Javier Henao <javier.henao@outlook.com>
+Date:   Sat Feb 17 06:47:26 2024 -0500
+
+    Primer Commit 😀
